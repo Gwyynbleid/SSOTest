@@ -71,7 +71,7 @@ if (!isset ($_SESSION['app']['serialnumber'])) { ?>
 
 <html>
 <head>
-    <title>New12 Example OpenID Connect Client Use</title>
+    <title>Example OpenID Connect Client Use</title>
     <style>
         body {
             font-family: 'Lucida Grande', Verdana, Arial, sans-serif;
